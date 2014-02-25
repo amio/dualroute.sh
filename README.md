@@ -6,7 +6,7 @@
 ## 使用方法
 
 1. 下载 [dualroute.zip](http://amio.github.io/dualroute.sh/dualroute.zip)
-2. 解压之后执行 dualroute.command 即可
+2. 解压，双击执行 **dualroute.command** (哎哟也没别的文件了)
 
 ## 重要信息
 
