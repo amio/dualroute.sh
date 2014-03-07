@@ -5,8 +5,8 @@
 
 ## 使用方法
 
-1. 下载 [dualroute.zip](http://amio.github.io/dualroute.sh/dualroute.zip)
-2. 解压，双击执行 **dualroute.command** (哎哟也没别的文件了)
+1. 下载 [dualroute.zip](http://git.dev.sh.ctripcorp.com/xwjin/dualroute/repository/archive)
+2. 解压，双击执行 **dualroute.command**
 
 ## 重要信息
 

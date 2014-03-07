@@ -3,7 +3,7 @@
 
 VER='v0.1'
 
-echo -e '\n携程双网络工具 / '$VER'\n\n   (登录这台电脑的密码 u_u)\n            ↓↓↓↓↓↓'
+echo -e '\n携程双网络工具 / '$VER'\n\n   (登录这台 Mac 的密码 u_u)\n            ↓↓↓↓↓↓'
 
 NETWORKS=\"Ethernet\"`networksetup -listallnetworkservices | sed -E '/^An asterisk\ .*|^Ethernet$/d' | sed 's/.*/ \"&\"/' | tr -d "\n"`
 COMMAND="sudo networksetup -ordernetworkservices "$NETWORKS
@@ -30,6 +30,6 @@ else
   # wxd.ctrip.com
   sudo route -n add -net 210.13.73.60 $GW1
   
-  echo -e "\n$(tput setaf 1)DONE!"
-  osascript -e 'tell application "Terminal" to quit'
+  echo -e "\n$(tput setaf 1)哎哟好了！"
+  # osascript -e 'tell application "Terminal" to quit'
 fi
