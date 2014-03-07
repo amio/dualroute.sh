@@ -5,7 +5,7 @@
 
 ## 使用方法
 
-1. 下载 [dualroute.zip](http://git.dev.sh.ctripcorp.com/xwjin/dualroute/repository/archive)
+1. 下载 dualroute.zip [(内网地址)](http://git.dev.sh.ctripcorp.com/xwjin/dualroute/repository/archive) [(外网地址)](https://github.com/amio/dualroute.sh/archive/gh-pages.zip)
 2. 解压，双击执行 **dualroute.command**
 
 ## 重要信息
